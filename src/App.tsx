@@ -1,4 +1,3 @@
-import "./App.css";
 import Canvas from "@/features/Canvas/components/Canvas";
 
 
